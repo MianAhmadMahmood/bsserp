@@ -12,7 +12,11 @@ const Navbar = () => {
         {name: 'Solutions',path: '/solutions',
             subLinks: [
                 { name: "Manufacturing ERP", path: '/solutions/manufacturing-erp' },
-                { name: "Distribution ERP Software", path: '/solutions/distribution-erp' }
+                { name: "Distribution ERP Software", path: '/solutions/distribution-erp' },
+                { name: "Web Development", path: '/solutions/web-development' },
+                { name: "Digital Marketing", path: '/solutions/digital-marketing' },
+                { name: "SEO Services", path: '/solutions/seo-services' },
+                
             ]
         },
         {

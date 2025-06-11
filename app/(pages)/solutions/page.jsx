@@ -7,13 +7,13 @@ const Page = ({ }) => {
     const cards = [
         {
             title: 'Manufacturing ERP',
-            desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae ratione ea quae reprehenderit sit. Facere, animi.',
+            desc: ' Manufacturing ERP is a comprehensive software solution designed to streamline and optimize manufacturing processes.',
             icon: <BiCalculator className="text" size={50} />,
             link: '/solutions/manufacturing-erp'
         },
         {
             title: 'Distribution ERP Software',
-            desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae ratione ea quae reprehenderit sit. Facere, animi.',
+            desc: ' Distribution ERP software is a comprehensive solution designed to streamline and optimize distribution processes.',
             icon: <BiBarChart className="text" size={50} />,
             link: '/solutions/supply-chain'
         },
